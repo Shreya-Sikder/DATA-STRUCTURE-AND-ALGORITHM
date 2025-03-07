@@ -1,3 +1,3 @@
 # DATA-STRUCTURE-AND-ALGORITHM
-*topicwise code* 
+*Topicwise Code:* 
 *1.Recursion*
