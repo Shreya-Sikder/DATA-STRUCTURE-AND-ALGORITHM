@@ -8,5 +8,5 @@ int main(){
     int n;
     cin>>n;
     sum(n);
-    cout<<"sumation is "<<sum(n)<<endl;
+    cout<<"summation is "<<sum(n)<<endl;
 }
