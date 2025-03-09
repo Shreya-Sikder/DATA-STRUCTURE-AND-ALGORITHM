@@ -1,5 +1,5 @@
 # DATA-STRUCTURE-AND-ALGORITHM
-*Topicwise Code:* 
-*1.Sort(C)*
-*2.Search(C)*
-*3.Recursion(C++)*
+*Topicwise Code:* <br>
+*1.Sort(C)*<br>
+*2.Search(C)*<br>
+*3.Recursion(C++)*<br>
