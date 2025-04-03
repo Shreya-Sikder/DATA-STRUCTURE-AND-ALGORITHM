@@ -5,3 +5,5 @@
 *3.Linked List(C)*<br>
 *4.Recursion(C++)*<br>
 *5.Divide and Conquer (C++)*<br>
+*6.Greedy Algorithm (C++)*<br>
+
