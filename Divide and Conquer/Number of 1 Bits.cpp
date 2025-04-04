@@ -1,36 +1,17 @@
-#include<bits/stdc++.h>
+#include <iostream>
 using namespace std;
 
-    int hammingWeight(int n) {
-      vector<int> binary;
+// Function to count set bits using divide and conquer
+int countSetBits(int n) {
+    if (n == 0) return 0;
+    return 1 + countSetBits(n & (n - 1)); // Remove the lowest set bit and recurse
+}
 
-    if (n == 0)
-      return 0;
+int main() {
+    int num;
+    cout << "Enter a number: ";
+    cin >> num;
 
-    while (n > 0) {
-        binary.push_back(n % 2);
-        n = n / 2;
-    }
- int count=0;
-    for (int i = binary.size() - 1; i >= 0; i--) {
-  if(binary[i]==1){
-    count++;
-  }
-    }
-    return count;
-    }
-
-
-
-int main()
-{
-
-    int n;
-    cout<<"Number in decimal: ";
-    cin>>n;
-
-    int result=hammingWeight(n);
-
-    cout<<"total: "<<result<<endl;
-
+    cout << "Number of 1 bits: " << countSetBits(num) << endl;
+    return 0;
 }
