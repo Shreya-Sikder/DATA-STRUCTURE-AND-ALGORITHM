@@ -29,7 +29,7 @@ This repository includes a wide range of fundamental and advanced topics in data
 
 | Category                | Language |
 |-------------------------|----------|
-| Sorting Algorithms(https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM/tree/main/Divide%20and%20Conquer)     | C        |
+| [Sorting Algorithms](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM/tree/main/Divide%20and%20Conquer)     | C        |
 | Searching Techniques    | C        |
 | Stack                   | C        |
 | Linked List Operations  | C        |
