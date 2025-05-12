@@ -3,7 +3,7 @@
 [![Repo Size](https://img.shields.io/github/repo-size/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)
 [![Languages](https://img.shields.io/github/languages/count/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)
 [![Top Language](https://img.shields.io/github/languages/top/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)
-[![Last Commit](https://img.shields.io/github/last-commit/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)
+[![Last Commit](https://img.shields.io/github/visitors/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)
 
 ---
 
