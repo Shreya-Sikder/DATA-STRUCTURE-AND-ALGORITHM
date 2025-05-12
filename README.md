@@ -38,7 +38,7 @@ This repository includes a wide range of fundamental and advanced topics in data
 |-------------------------|----------|
 | Sorting Algorithms      | C        |
 | Searching Techniques    | C        |
-| Stack                   | C++      |
+| Stack                   | C        |
 | Linked List Operations  | C        |
 | Recursion               | C++      |
 | Divide and Conquer      | C++      |
