@@ -29,15 +29,16 @@ This repository includes a wide range of fundamental and advanced topics in data
 
 | Category                | Language |
 |-------------------------|----------|
-| [Sorting Algorithms](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM/tree/main/Divide%20and%20Conquer)     | C        |
-| Searching Techniques    | C        |
-| Stack                   | C        |
-| Linked List Operations  | C        |
-| Recursion               | C++      |
-| Divide and Conquer      | C++      |
-| Dynamic Programming     | C++      |
-| Tree                    | C++      |
-|Graphs                   | C++      |
+| [Sorting Algorithms](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM/tree/main/Sort)     | C        |
+| [Searching Techniques](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM/tree/main/search)    | C        |
+| [Stack](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM/tree/main/Stack)                   | C        |
+| [Linked List](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM/tree/main/LinkedList)  | C        |
+| [Recursion](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM/tree/main/Recursion)               | C++      |
+|[Greedy Algorithm](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM/tree/main/Greedy%20Algorithm)         |C++
+| [Divide and Conquer](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM/tree/main/Divide%20and%20Conquer)      | C++      |
+| [Dynamic Programming]()     | C++      |
+| [Tree](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM/tree/main/Sort)                    | C++      |
+|[Graphs]()                   | C++      |
 
 
 
