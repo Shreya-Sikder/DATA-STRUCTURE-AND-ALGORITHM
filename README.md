@@ -1,4 +1,4 @@
-# 📘 Data Structure and Algorithm Repository
+# 📘 Data Structure and Algorithm 
 
 [![Repo Size](https://img.shields.io/github/repo-size/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)
 [![Languages](https://img.shields.io/github/languages/count/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)
