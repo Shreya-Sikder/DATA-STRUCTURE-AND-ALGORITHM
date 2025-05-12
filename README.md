@@ -15,8 +15,6 @@ This repository serves as a personal collection of **Data Structure and Algorith
 
 - [Overview](#-overview)
 - [Topics Covered](#-topics-covered)
-- [Technologies Used](#-technologies-used)
-- [License](#-license)
 
 ---
 
