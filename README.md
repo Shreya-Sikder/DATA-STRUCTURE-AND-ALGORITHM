@@ -1,9 +1,60 @@
-# DATA-STRUCTURE-AND-ALGORITHM
-*Topicwise Code:* <br>
-*1.Sort(C)*<br>
-*2.Search(C)*<br>
-*3.Linked List(C)*<br>
-*4.Recursion(C++)*<br>
-*5.Divide and Conquer (C++)*<br>
-*6.Greedy Algorithm (C++)*<br>
+# 📘 Data Structure and Algorithm Repository
+
+[![Repo Size](https://img.shields.io/github/repo-size/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)
+[![Languages](https://img.shields.io/github/languages/count/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)
+[![Top Language](https://img.shields.io/github/languages/top/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)
+[![Last Commit](https://img.shields.io/github/last-commit/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)
+
+---
+
+This repository serves as a personal collection of **Data Structure and Algorithm** problems and solutions. The content is curated from academic coursework and external problem-solving platforms, implemented in **C** and **C++**. Each folder is organized by topic to facilitate efficient navigation and revision.
+
+---
+
+## 📑 Table of Contents
+
+- [Overview](#-overview)
+- [Topics Covered](#-topics-covered)
+- [Directory Structure](#-directory-structure)
+- [Technologies Used](#-technologies-used)
+- [Getting Started](#-getting-started)
+- [Contributing](#-contributing)
+- [License](#-license)
+
+---
+
+## 📖 Overview
+
+This repository includes a wide range of fundamental and advanced topics in data structures and algorithms. Each implementation is focused on clarity, performance, and practical understanding. Ideal for:
+
+- Academic study
+- Interview preparation
+- Personal skill development
+
+---
+
+## 📌 Topics Covered
+
+### Implemented
+
+| Category                | Language |
+|-------------------------|----------|
+| Sorting Algorithms      | C        |
+| Searching Techniques    | C        |
+| Linked List Operations  | C        |
+| Recursion               | C++      |
+| Divide and Conquer      | C++      |
+| Greedy Algorithms       | C++      |
+
+### Planned / In Progress
+
+- Stack
+- Queue
+- Trees
+- Graphs
+- Dynamic Programming
+
+---
+
+## 🗂 Directory Structure
 
