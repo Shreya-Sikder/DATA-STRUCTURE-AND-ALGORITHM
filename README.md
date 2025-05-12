@@ -1,10 +1,5 @@
 # 📘 Data Structure and Algorithm 
 
-[![Repo Size](https://img.shields.io/github/repo-size/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)
-[![Languages](https://img.shields.io/github/languages/count/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)
-[![Top Language](https://img.shields.io/github/languages/top/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)
-[![Last Commit](https://img.shields.io/github/visitors/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM)
-
 ---
 
 This repository serves as a personal collection of **Data Structure and Algorithm** problems and solutions. The content is curated from academic coursework and external problem-solving platforms, implemented in **C** and **C++**. Each folder is organized by topic to facilitate efficient navigation and revision.
