@@ -15,10 +15,7 @@ This repository serves as a personal collection of **Data Structure and Algorith
 
 - [Overview](#-overview)
 - [Topics Covered](#-topics-covered)
-- [Directory Structure](#-directory-structure)
 - [Technologies Used](#-technologies-used)
-- [Getting Started](#-getting-started)
-- [Contributing](#-contributing)
 - [License](#-license)
 
 ---
@@ -41,20 +38,14 @@ This repository includes a wide range of fundamental and advanced topics in data
 |-------------------------|----------|
 | Sorting Algorithms      | C        |
 | Searching Techniques    | C        |
+| Stack                   | C++      |
 | Linked List Operations  | C        |
 | Recursion               | C++      |
 | Divide and Conquer      | C++      |
-| Greedy Algorithms       | C++      |
+| Dynamic Programming     | C++      |
+| Tree                    | C++      |
+|Graphs                   | C++      |
 
-### Planned / In Progress
-
-- Stack
-- Queue
-- Trees
-- Graphs
-- Dynamic Programming
-
----
 
 ## 🗂 Directory Structure
 
