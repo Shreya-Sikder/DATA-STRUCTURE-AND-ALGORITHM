@@ -37,7 +37,7 @@ This repository includes a wide range of fundamental and advanced topics in data
 |[Greedy Algorithm](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM/tree/main/Greedy%20Algorithm)         |C++
 | [Divide and Conquer](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM/tree/main/Divide%20and%20Conquer)      | C++      |
 | [Dynamic Programming]()     | C++      |
-| [Tree](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM/tree/main/Sort)                    | C++      |
+| [Tree]()                    | C++      |
 |[Graphs]()                   | C++      |
 
 
