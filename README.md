@@ -36,7 +36,7 @@ This repository includes a wide range of fundamental and advanced topics in data
 | [Recursion](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM/tree/main/Recursion)               | C++      |
 |[Greedy Algorithm](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM/tree/main/Greedy%20Algorithm)         |C++
 | [Divide and Conquer](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM/tree/main/Divide%20and%20Conquer)      | C++      |
-| [Dynamic Programming]()     | C++      |
+| [Dynamic Programming](https://github.com/Shreya-Sikder/DATA-STRUCTURE-AND-ALGORITHM/tree/main/Dynamic%20Programming)     | C++      |
 | [Tree]()                    | C++      |
 |[Graphs]()                   | C++      |
 
