@@ -1,4 +1,6 @@
+# 📘 Data Structure and Algorithm 
 
+---
 
 This repository serves as a personal collection of **Data Structure and Algorithm** problems and solutions. The content is curated from academic coursework and external problem-solving platforms, implemented in **C** and **C++**. Each folder is organized by topic to facilitate efficient navigation and revision.
 
